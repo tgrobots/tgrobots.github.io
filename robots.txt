@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tgrobots.github.io/sitemap.xml
